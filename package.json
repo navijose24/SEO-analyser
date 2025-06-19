@@ -1,0 +1,15 @@
+{
+  "name": "seo-analyser",
+  "version": "1.0.0",
+  "description": "SEO Analyzer is a lightweight Python-based tool that evaluates the SEO performance of any public webpage. It checks for common SEO elements like meta tags, keyword usage, headings, and more, helping you optimize your website to rank better on search engines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ssl-checker": "^2.0.10"
+  }
+}
