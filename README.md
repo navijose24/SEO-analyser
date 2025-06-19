@@ -60,7 +60,7 @@ MIT
 
 ---
 
-## 🙏 Credits
+##  Credits
 - [Express](https://expressjs.com/)
 - [React](https://react.dev/)
 - [Cheerio](https://cheerio.js.org/)
