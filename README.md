@@ -29,7 +29,7 @@ SEO Analyzer is a full-stack web app that visually and interactively evaluates t
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/navijose24/SEO-analyser.git
    cd SEO-analyser
    ```
 2. **Install dependencies:**
